@@ -1,3 +1,5 @@
+//Baseado em http://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/shm/example-1.html
+
 #include  <stdio.h>
 #include  <stdlib.h>
 #include  <wait.h>
