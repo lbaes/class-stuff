@@ -1,2 +1,2 @@
 # schoolstuff
-stuff from school
+stuff from some classes
